@@ -1,0 +1,11 @@
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+
+# Log files
+*.log
